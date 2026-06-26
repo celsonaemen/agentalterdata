@@ -30,6 +30,22 @@ Use este repositorio como base de conhecimento operacional para:
 - Apoiar conferencias entre Fiscal e Contabil.
 - Reduzir reincidencia de erros em rotinas do Alterdata.
 
+## Controle de fontes oficiais
+
+O projeto usa links oficiais da Alterdata como referencia, mas os documentos internos devem ser resumos proprios e procedimentos operacionais.
+
+A pasta [bases-oficiais/bdcc/](bases-oficiais/bdcc/) controla os links oficiais, modulo, assunto, status da fonte, data de consulta e relacao com documentos internos. Essa camada ajuda a separar conhecimento oficial Alterdata, procedimento interno do escritorio e caso real resolvido.
+
+## Validacao de seguranca
+
+O script abaixo ajuda a encontrar possiveis dados sensiveis em arquivos Markdown:
+
+```bash
+python scripts/check_sensitive_data.py
+```
+
+O script apenas imprime alertas. Ele nao bloqueia commit.
+
 ## Casos reais documentados
 
 - [Caso 001 - CFOP de venda usado em operacao de transferencia](casos-reais/cfop/caso-001-cfop-venda-em-transferencia.md)

@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.0 - 2026-06-26 - Controle de fontes oficiais BDCC
+
+- Criada camada de controle de fontes oficiais BDCC/Alterdata.
+- Criado template de fonte oficial.
+- Criado padrao de documentacao do projeto.
+- Criado script inicial para alertar possiveis dados sensiveis.
+- Adicionado requirements.txt com pyyaml.
+
 ## 0.3.0 - 2026-06-26 - Documentacao de PIS, COFINS e ISS
 
 - Criada documentacao operacional de PIS, COFINS e ISS na Integracao Fiscal x Contabil.

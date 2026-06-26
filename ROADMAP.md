@@ -22,7 +22,11 @@ Essas areas concentram as principais dores operacionais: divergencias de valores
 ### Fase 2: Base oficial BDCC
 
 - Organizar links e referencias oficiais.
+- Criar indice de links oficiais.
 - Classificar materiais por modulo.
+- Classificar fontes por modulo.
+- Resumir fontes sem copiar conteudo literal.
+- Relacionar fontes oficiais com procedimentos internos.
 - Registrar observacoes praticas de uso.
 
 ### Fase 3: Procedimentos internos
