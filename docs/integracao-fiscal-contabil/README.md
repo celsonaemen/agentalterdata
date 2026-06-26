@@ -35,6 +35,7 @@ Na pratica, a integracao depende de parametrizacoes feitas no Fiscal e no Contab
 - [lancamentos-automaticos.md](lancamentos-automaticos.md): cadastro e conferencia dos lancamentos automaticos usados na integracao.
 - [vinculacao-contabil.md](vinculacao-contabil.md): relacao entre clientes, fornecedores e contas contabeis.
 - [exportacao-para-contabil.md](exportacao-para-contabil.md): fluxo de exportacao dos movimentos fiscais para o Contabil.
+- [pis-cofins-iss.md](pis-cofins-iss.md): conferencia de PIS, COFINS e ISS na integracao entre Fiscal e Contabil.
 - [troubleshooting.md](troubleshooting.md): diagnostico de erros e divergencias comuns.
 
 ## Principais riscos

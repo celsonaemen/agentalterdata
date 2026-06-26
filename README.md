@@ -8,7 +8,10 @@ O objetivo deste repositorio e organizar procedimentos, diagnosticos, erros reco
 
 - Contabil
 - Fiscal
+- PIS/COFINS
+- ISS
 - Integracao Fiscal x Contabil
+- Tributos na integracao Fiscal x Contabil
 - WPHD
 - DP
 - Acessorias
@@ -30,6 +33,7 @@ Use este repositorio como base de conhecimento operacional para:
 ## Casos reais documentados
 
 - [Caso 001 - CFOP de venda usado em operacao de transferencia](casos-reais/cfop/caso-001-cfop-venda-em-transferencia.md)
+- [Caso 002 - Conferencia de PIS e COFINS para lancamento no Alterdata](casos-reais/pis-cofins/caso-002-conferencia-pis-cofins.md)
 
 ## Seguranca e sigilo
 
