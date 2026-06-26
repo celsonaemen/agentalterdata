@@ -255,17 +255,27 @@ Identifique o lote anterior. Decida se deve excluir, estornar, manter ou ajustar
 
 Confira se nao existe duplicidade no Contabil e se o saldo final bate com o Fiscal.
 
-## Caso real: CFOP de venda usado em transferencia
+## CFOP de venda usado em transferencia
 
 ### Sintoma
 
-Fiscal e Contabil nao batem apos a integracao.
+Fiscal e Contabil nao batem apos a integracao. A nota aparece com comportamento de venda nos relatorios ou no lote contabil, mas a operacao real era transferencia.
 
-### Causa
+### Causa provavel
 
-Uma nota foi escriturada com CFOP de venda, mas a operacao correta era transferencia. Com isso, o Fiscal levou a nota para regra contabil de venda, gerando receita, cliente ou imposto de forma indevida.
+CFOP ou codigo de operacao com natureza de venda aplicado em uma nota de transferencia. Com isso, o Fiscal leva a nota para regra contabil de venda, gerando receita, cliente, imposto, historico ou conta contabil incompativel com a operacao real.
 
-### Correcao
+### Onde verificar
+
+- `Fiscal > Movimento de Notas`
+- Conferencia da NF.
+- CFOP dos itens.
+- Codigo de operacao.
+- Parametrizacao contabil vinculada ao CFOP/operacao.
+- Integracao Fiscal x Contabil.
+- Lote gerado no Contabil.
+
+### Como corrigir
 
 1. Revisar o XML e confirmar a natureza real da operacao.
 2. Conferir CFOP por item.
@@ -274,6 +284,18 @@ Uma nota foi escriturada com CFOP de venda, mas a operacao correta era transfere
 5. Ajustar a escrituracao conforme orientacao fiscal.
 6. Controlar o lote contabil ja gerado.
 7. Reexportar ou ajustar conforme a rotina interna.
+
+### Como validar
+
+- Conferir se a nota deixou de compor total de venda indevido.
+- Conferir se o novo lote contabil usa conta e historico compativeis com transferencia.
+- Comparar relatorio fiscal, lote contabil e razao das contas afetadas.
+- Confirmar que debito e credito fecham sem diferenca.
+
+### Links internos
+
+- [Caso 001 - CFOP de venda usado em operacao de transferencia](../../casos-reais/cfop/caso-001-cfop-venda-em-transferencia.md)
+- [Procedimento: CFOP de venda x CFOP de transferencia](../fiscal/cfop-venda-transferencia.md)
 
 ### Prevencao
 

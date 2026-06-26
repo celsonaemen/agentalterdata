@@ -27,6 +27,10 @@ Use este repositorio como base de conhecimento operacional para:
 - Apoiar conferencias entre Fiscal e Contabil.
 - Reduzir reincidencia de erros em rotinas do Alterdata.
 
+## Casos reais documentados
+
+- [Caso 001 - CFOP de venda usado em operacao de transferencia](casos-reais/cfop/caso-001-cfop-venda-em-transferencia.md)
+
 ## Seguranca e sigilo
 
 Nao salve neste repositorio dados sensiveis ou arquivos reais de clientes.

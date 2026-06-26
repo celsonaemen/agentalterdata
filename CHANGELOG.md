@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0 - 2026-06-26 - Caso real de divergencia por CFOP
+
+- Adicionado primeiro caso real anonimizado.
+- Criado procedimento sobre CFOP de venda x transferencia.
+- Atualizado troubleshooting da Integracao Fiscal x Contabil.
+
 ## 0.1.0 - 2026-06-26
 
 - Criada a estrutura inicial do Agente Especialista Alterdata.
