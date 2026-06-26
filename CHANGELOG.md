@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.0 - 2026-06-26 - Mapeamento inicial de fontes oficiais da integracao
+
+- Mapeados links oficiais da Alterdata sobre Integracao Fiscal x Contabil.
+- Criado arquivo central de fontes oficiais da integracao.
+- Relacionadas fontes oficiais com documentos internos do agente.
 ## 0.4.0 - 2026-06-26 - Controle de fontes oficiais BDCC
 
 - Criada camada de controle de fontes oficiais BDCC/Alterdata.

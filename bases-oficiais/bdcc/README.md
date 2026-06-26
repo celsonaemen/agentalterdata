@@ -6,6 +6,11 @@ A documentacao oficial deve ser consultada no portal da Alterdata. Este reposito
 
 O objetivo desta pasta e mapear fontes confiaveis para alimentar o Agente Especialista Alterdata com contexto organizado, separando conhecimento oficial, procedimento interno do escritorio e caso real resolvido.
 
+## Arquivos desta pasta
+
+- [indice-links.md](indice-links.md): indice geral de fontes oficiais mapeadas por modulo.
+- [integracao-fiscal-contabil.md](integracao-fiscal-contabil.md): fontes oficiais ja mapeadas para Integracao Fiscal x Contabil.
+
 ## O que pode ser salvo
 
 - Link oficial.

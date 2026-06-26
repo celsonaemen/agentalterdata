@@ -36,6 +36,8 @@ O projeto usa links oficiais da Alterdata como referencia, mas os documentos int
 
 A pasta [bases-oficiais/bdcc/](bases-oficiais/bdcc/) controla os links oficiais, modulo, assunto, status da fonte, data de consulta e relacao com documentos internos. Essa camada ajuda a separar conhecimento oficial Alterdata, procedimento interno do escritorio e caso real resolvido.
 
+Os primeiros links oficiais da Integracao Fiscal x Contabil ja foram mapeados em [bases-oficiais/bdcc/integracao-fiscal-contabil.md](bases-oficiais/bdcc/integracao-fiscal-contabil.md).
+
 ## Validacao de seguranca
 
 O script abaixo ajuda a encontrar possiveis dados sensiveis em arquivos Markdown:
