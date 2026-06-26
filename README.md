@@ -38,6 +38,8 @@ A pasta [bases-oficiais/bdcc/](bases-oficiais/bdcc/) controla os links oficiais,
 
 Os primeiros links oficiais da Integracao Fiscal x Contabil ja foram mapeados em [bases-oficiais/bdcc/integracao-fiscal-contabil.md](bases-oficiais/bdcc/integracao-fiscal-contabil.md).
 
+O projeto tambem possui fichas individuais para as fontes oficiais da Integracao Fiscal x Contabil em [bases-oficiais/bdcc/fontes/integracao-fiscal-contabil/](bases-oficiais/bdcc/fontes/integracao-fiscal-contabil/).
+
 ## Validacao de seguranca
 
 O script abaixo ajuda a encontrar possiveis dados sensiveis em arquivos Markdown:

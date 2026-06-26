@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.6.0 - 2026-06-26 - Fichas individuais de fontes oficiais
+
+- Criadas fichas individuais para fontes oficiais da Integracao Fiscal x Contabil.
+- Atualizado indice central de fontes oficiais.
+- Melhorado script de validacao de dados sensiveis para reduzir falsos positivos.
+- Classificados alertas em criticos e warnings.
 ## 0.5.0 - 2026-06-26 - Mapeamento inicial de fontes oficiais da integracao
 
 - Mapeados links oficiais da Alterdata sobre Integracao Fiscal x Contabil.

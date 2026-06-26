@@ -11,6 +11,9 @@ O objetivo desta pasta e mapear fontes confiaveis para alimentar o Agente Especi
 - [indice-links.md](indice-links.md): indice geral de fontes oficiais mapeadas por modulo.
 - [integracao-fiscal-contabil.md](integracao-fiscal-contabil.md): fontes oficiais ja mapeadas para Integracao Fiscal x Contabil.
 
+## Fichas individuais de fontes oficiais
+
+As fichas individuais ficam em [fontes/integracao-fiscal-contabil/](fontes/integracao-fiscal-contabil/). Cada ficha registra uma fonte oficial mapeada, com resumo proprio, uso pratico no agente, relacao com documentos internos, riscos de erro e checklist derivado.
 ## O que pode ser salvo
 
 - Link oficial.

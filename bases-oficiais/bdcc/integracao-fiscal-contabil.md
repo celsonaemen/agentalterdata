@@ -4,6 +4,7 @@ Este arquivo centraliza as fontes oficiais ja mapeadas sobre Integracao Fiscal x
 
 ## BDCC-IFC-001
 
+**Ficha individual:** [Fonte BDCC-IFC-001](fontes/integracao-fiscal-contabil/bdcc-ifc-001-visao-geral-integracao.md)
 **Titulo oficial:** Integracao Fiscal x Contabil: Tudo que voce precisa saber sobre Integracao Fiscal x Contabil
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-tudo-que-voce-precisa-saber-sobre-integracao-fiscalxcontabil-84260204.html
@@ -28,6 +29,7 @@ Usar como referencia de visao geral quando o usuario perguntar o que e integraca
 
 ## BDCC-IFC-002
 
+**Ficha individual:** [Fonte BDCC-IFC-002](fontes/integracao-fiscal-contabil/bdcc-ifc-002-configuracoes-no-fiscal.md)
 **Titulo oficial:** Integracao Fiscal x Contabil: Principais configuracoes no Fiscal para a Integracao Fiscal x Contabil
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-principais-configuracoes-no-fiscal-para-a-integracao-fiscal-x-contabil-184784013.html
@@ -52,6 +54,7 @@ Usar para orientar conferencia de empresa, CFOP, codigo de operacao e lancamento
 
 ## BDCC-IFC-003
 
+**Ficha individual:** [Fonte BDCC-IFC-003](fontes/integracao-fiscal-contabil/bdcc-ifc-003-vinculacao-contabil.md)
 **Titulo oficial:** Vinculacao Contabil - Fiscal
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-vinculacao-contabil-220178968.html
@@ -76,6 +79,7 @@ Usar em diagnosticos de cliente ou fornecedor caindo em conta incorreta, concili
 
 ## BDCC-IFC-004
 
+**Ficha individual:** [Fonte BDCC-IFC-004](fontes/integracao-fiscal-contabil/bdcc-ifc-004-lancamento-automatico-fiscal.md)
 **Titulo oficial:** Como criar um lancamento automatico - Fiscal
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-como-cadastrar-um-lancamento-automatico-37261453.html
@@ -100,6 +104,7 @@ Usar quando o problema indicar lote sem debito/credito, ausencia de lancamento o
 
 ## BDCC-IFC-005
 
+**Ficha individual:** [Fonte BDCC-IFC-005](fontes/integracao-fiscal-contabil/bdcc-ifc-005-lancamento-automatico-contabil.md)
 **Titulo oficial:** Como criar um lancamento automatico - Contabil
 
 **Link oficial:** https://ajuda.alterdata.com.br/bdcc/como-criar-um-lancamento-automatico-117662446.html
@@ -124,6 +129,7 @@ Usar para orientar criacao ou revisao de lancamento automatico quando a parametr
 
 ## BDCC-IFC-006
 
+**Ficha individual:** [Fonte BDCC-IFC-006](fontes/integracao-fiscal-contabil/bdcc-ifc-006-integracao-online.md)
 **Titulo oficial:** Integracao Online Fiscal x Contabil
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-integracao-online-fiscal-x-contabil-37261456.html
@@ -148,6 +154,7 @@ Usar para diferenciar exportacao manual, lote, arquivo e integracao online, prin
 
 ## BDCC-IFC-007
 
+**Ficha individual:** [Fonte BDCC-IFC-007](fontes/integracao-fiscal-contabil/bdcc-ifc-007-historico-informacoes-adicionais.md)
 **Titulo oficial:** Integracao Fiscal x Contabil: Como configurar o Fiscal para levar informacoes adicionais no historico
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-como-configurar-o-fiscal-para-levar-informacoes-adicionais-no-historico-73680242.html
@@ -172,6 +179,7 @@ Usar em problemas de historico incompleto, historico excessivo, identificacao de
 
 ## BDCC-IFC-008
 
+**Ficha individual:** [Fonte BDCC-IFC-008](fontes/integracao-fiscal-contabil/bdcc-ifc-008-configuracoes-opcoes-fiscal.md)
 **Titulo oficial:** Integracao Fiscal x Contabil: Selecoes em Configuracoes Opcoes no Fiscal
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-selecoes-em-configuracoes-opcoes-no-fiscal-208372180.html
@@ -196,6 +204,7 @@ Usar quando houver divergencia de valor liquido, historico, ISS tomador, PIS/COF
 
 ## BDCC-IFC-009
 
+**Ficha individual:** [Fonte BDCC-IFC-009](fontes/integracao-fiscal-contabil/bdcc-ifc-009-notas-servico-iss-tomador.md)
 **Titulo oficial:** Configuracao de Notas de Servicos para Integracao Fiscal x Contabil
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/configuracao-de-notas-de-servicos-para-integracao-fiscal-x-contabil-37261396.html
@@ -220,6 +229,7 @@ Usar em diagnosticos de ISS proprio, ISS retido, notas de servico sem lancamento
 
 ## BDCC-IFC-010
 
+**Ficha individual:** [Fonte BDCC-IFC-010](fontes/integracao-fiscal-contabil/bdcc-ifc-010-erro-periodo-sem-movimento-ja-integrado.md)
 **Titulo oficial:** Integracao Fiscal x Contabil: Nao foi possivel efetuar a integracao, o periodo escolhido nao possui movimento ou entao ja foi feita a integracao
 
 **Link oficial:** https://ajuda.alterdata.com.br/fiscalbase/integracao-fiscal-x-contabil-nao-foi-possivel-efetuar-a-integracao-o-periodo-escolhido-nao-possui-movimento-ou-entao-ja-foi-feita-a-integracao-37261407.html
