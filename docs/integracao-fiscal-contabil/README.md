@@ -36,6 +36,8 @@ Na pratica, a integracao depende de parametrizacoes feitas no Fiscal e no Contab
 - [vinculacao-contabil.md](vinculacao-contabil.md): relacao entre clientes, fornecedores e contas contabeis.
 - [exportacao-para-contabil.md](exportacao-para-contabil.md): fluxo de exportacao dos movimentos fiscais para o Contabil.
 - [pis-cofins-iss.md](pis-cofins-iss.md): conferencia de PIS, COFINS e ISS na integracao entre Fiscal e Contabil.
+- [checklist-fechamento-mensal.md](checklist-fechamento-mensal.md): checklist mensal para conferencia antes, durante e depois da integracao.
+- [roteiro-diagnostico-divergencia.md](roteiro-diagnostico-divergencia.md): roteiro para diagnosticar diferencas entre Fiscal e Contabil.
 - [troubleshooting.md](troubleshooting.md): diagnostico de erros e divergencias comuns.
 
 ## Principais riscos

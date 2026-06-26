@@ -1,16 +1,25 @@
 # Changelog
 
+## 0.7.0 - 2026-06-26 - Checklist de fechamento mensal Fiscal x Contabil
+
+- Criado checklist operacional de fechamento mensal Fiscal x Contabil.
+- Criado roteiro de diagnostico de divergencia Fiscal x Contabil.
+- Criado template padrao de checklist.
+- Atualizada documentacao da pasta de integracao.
+
 ## 0.6.0 - 2026-06-26 - Fichas individuais de fontes oficiais
 
 - Criadas fichas individuais para fontes oficiais da Integracao Fiscal x Contabil.
 - Atualizado indice central de fontes oficiais.
 - Melhorado script de validacao de dados sensiveis para reduzir falsos positivos.
 - Classificados alertas em criticos e warnings.
+
 ## 0.5.0 - 2026-06-26 - Mapeamento inicial de fontes oficiais da integracao
 
 - Mapeados links oficiais da Alterdata sobre Integracao Fiscal x Contabil.
 - Criado arquivo central de fontes oficiais da integracao.
 - Relacionadas fontes oficiais com documentos internos do agente.
+
 ## 0.4.0 - 2026-06-26 - Controle de fontes oficiais BDCC
 
 - Criada camada de controle de fontes oficiais BDCC/Alterdata.

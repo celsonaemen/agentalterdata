@@ -30,6 +30,10 @@ Use este repositorio como base de conhecimento operacional para:
 - Apoiar conferencias entre Fiscal e Contabil.
 - Reduzir reincidencia de erros em rotinas do Alterdata.
 
+## Checklists operacionais
+
+- [Checklist de Fechamento Mensal Fiscal x Contabil](docs/integracao-fiscal-contabil/checklist-fechamento-mensal.md)
+- [Roteiro de Diagnostico de Divergencia Fiscal x Contabil](docs/integracao-fiscal-contabil/roteiro-diagnostico-divergencia.md)
 ## Controle de fontes oficiais
 
 O projeto usa links oficiais da Alterdata como referencia, mas os documentos internos devem ser resumos proprios e procedimentos operacionais.
