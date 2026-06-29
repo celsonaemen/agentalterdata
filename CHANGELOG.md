@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.7.0 - 2026-06-26 - Checklist de fechamento mensal Fiscal x Contabil
+## 0.7.0 - 2026-06-29 - Checklist de fechamento mensal Fiscal x Contabil
 
 - Criado checklist operacional de fechamento mensal Fiscal x Contabil.
 - Criado roteiro de diagnostico de divergencia Fiscal x Contabil.
