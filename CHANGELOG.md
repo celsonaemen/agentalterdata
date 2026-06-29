@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.8.0 - 2026-06-29 - Empacotamento da Skill Alterdata
+
+- Criada pasta skill/.
+- Criadas instrucoes principais da Skill.
+- Criado mapa de conhecimento.
+- Criada prioridade de fontes.
+- Criados padroes de resposta.
+- Criado fluxo de diagnostico.
+- Criados exemplos de uso.
+- Criado prompt mestre Alterdata Master Agent.
+- Atualizado SKILL.md principal.
+
 ## 0.7.0 - 2026-06-29 - Checklist de fechamento mensal Fiscal x Contabil
 
 - Criado checklist operacional de fechamento mensal Fiscal x Contabil.

@@ -30,6 +30,12 @@ Use este repositorio como base de conhecimento operacional para:
 - Apoiar conferencias entre Fiscal e Contabil.
 - Reduzir reincidencia de erros em rotinas do Alterdata.
 
+## Skill Alterdata
+
+A pasta [skill/](skill/) contem a camada final da Skill Alterdata. O arquivo principal e [skill/alterdata-master-agent.md](skill/alterdata-master-agent.md).
+
+A Skill usa os documentos tecnicos, fontes oficiais BDCC/Alterdata e casos reais anonimizados do repositorio para responder como especialista Alterdata em escritorio contabil brasileiro.
+
 ## Checklists operacionais
 
 - [Checklist de Fechamento Mensal Fiscal x Contabil](docs/integracao-fiscal-contabil/checklist-fechamento-mensal.md)

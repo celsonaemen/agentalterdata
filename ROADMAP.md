@@ -56,5 +56,10 @@ Essas areas concentram as principais dores operacionais: divergencias de valores
 ### Fase 7: Agente consultivo
 
 - Consolidar a base para uso consultivo.
+- Empacotar Skill.
+- Criar prompt mestre.
+- Criar padroes de resposta.
+- Criar fluxo de diagnostico.
+- Criar mapa de conhecimento.
 - Criar fluxos de diagnostico por tipo de problema.
 - Melhorar respostas com base nos casos reais registrados.

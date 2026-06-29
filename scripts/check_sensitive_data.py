@@ -19,6 +19,8 @@ SECURITY_GUIDE_FILES = {
     "docs/padroes-documentacao.md",
     "prompts/especialista-alterdata.md",
     "prompts/especialista-fiscal.md",
+    "skill/alterdata-master-agent.md",
+    "skill/instructions.md",
     "templates/fonte-oficial-template.md",
 }
 
